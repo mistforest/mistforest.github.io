@@ -1,3 +1,4 @@
+theme = "flat"
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "i think"
